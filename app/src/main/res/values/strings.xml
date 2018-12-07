@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BeautifyMe</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+
+    <!-- String resources for titles of items in the Bottom Navigation Bar -->
+
+    <string name="title_notifications">Notifications</string>
+    <string name="title_promotions">Promotions</string>
+    <string name="title_health">Be Healthy</string>
+    <string name="title_profile">My Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_description_beauty_center_item">Image of Beauty Center</string>
+    <string name="search_title">Search</string>
+
+</resources>
